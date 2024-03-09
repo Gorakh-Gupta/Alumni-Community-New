@@ -52,7 +52,7 @@ const LoginForm = () => {
        
         localStorage.setItem("token", token);
         
-        await checkUserLoginStatus();
+        // await checkUserLoginStatus();
         
         if (loggedInUserDetails && loggedInUserDetails.user) {
           navigate(`/dashboard/${loggedInUserDetails.user._id}`);
