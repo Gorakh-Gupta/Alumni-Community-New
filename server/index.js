@@ -18,7 +18,7 @@ const PORT = process.env.PORT || 3000;
 
 
 app.use(cors({
-  origin:["https://alumni-track.vercel.app",'http://localhost:3000'],
+  origin:["https://alumni-community-new-front.vercel.app",'http://localhost:3000'],
   credentials: true,
 }));
 // const cors = require('cors');
