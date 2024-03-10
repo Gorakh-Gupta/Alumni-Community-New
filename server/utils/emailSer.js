@@ -10,8 +10,8 @@ const sendVerificationEmail = async (adminmobileNo, verificationToken) => {
       },
     });
 
-    // const verificationLink = `https://alumni-server-alpha.vercel.app/api/v1/admin/verifyEmail/${encodeURIComponent(adminmobileNo)}/${verificationToken}`;
-    const verificationLink = `http://localhost:8080/api/v1/admin/verifyEmail/${encodeURIComponent(adminmobileNo)}/${verificationToken}`;
+    const verificationLink = `https://alumni-community-new.vercel.app/api/v1/admin/verifyEmail/${encodeURIComponent(adminmobileNo)}/${verificationToken}`;
+    // const verificationLink = `http://localhost:8080/api/v1/admin/verifyEmail/${encodeURIComponent(adminmobileNo)}/${verificationToken}`;
 
     const mailOptions = {
       from: process.env.EMAIL,
