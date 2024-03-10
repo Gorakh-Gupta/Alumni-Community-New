@@ -5,7 +5,7 @@ import { BASE_URL } from "../utils/constants";
 
 const SendEmails = () => {
   const [to, setTo] = useState("all");
-  const [from,setFrom] = useState('aashishanand973@gmail.com');
+  const [from,setFrom] = useState('gorakhgupta852@gmail.com');
   const [subject, setSubject] = useState("");
   const [text, setText] = useState("");
   const [users, setUsers] = useState([]);
