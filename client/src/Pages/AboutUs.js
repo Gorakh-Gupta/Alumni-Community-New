@@ -5,7 +5,7 @@ const AboutUs = () => {
     <div className="container mx-auto p-8 ">
       <div className="flex flex-col justify-center">
         <h1 className="text-3xl font-bold mb-8 text-center">
-          Welcome to the Alumni Tracker Website
+          Welcome to the Alumni Community Website
         </h1>
 
         <p className="mb-4">

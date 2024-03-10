@@ -39,7 +39,7 @@ const Dashboard = () => {
             <div className="flex items-center">
               <img className="mr-2 rounded h-10" src={LOGO_URL} alt="Logo" />
               <Link to="/alumni" className="text-black text-2xl font-bold mb-4">
-                Alumni Tracker
+                Alumni Community
               </Link>
             </div>
 

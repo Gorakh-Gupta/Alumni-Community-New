@@ -26,7 +26,7 @@ const Header = () => {
           <div className="flex items-center">
             <img className="mr-2 rounded h-10" src={LOGO_URL} alt="Logo" />
             <Link to="" className="text-white text-2xl font-bold mr-4">
-              Alumni Tracker
+              Alumni Community
             </Link>
 
             <DarkModeSwitch

@@ -32,7 +32,7 @@ const AdminDashboard = () => {
           <div className="container mx-auto flex items-center justify-center max-w-screen-xl">
             <img className="h-24" src={LOGO_URL} alt="Logo" />
             <Link to="" className="text-black text-3xl font-bold ml-4">
-              Alumni Tracker
+              Alumni Community
             </Link>
           </div>
         </div>
