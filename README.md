@@ -60,19 +60,15 @@ This website is hosted on Vercel. You can access the deployed application using 
   - Admins can manage and respond to user queries in the FAQ section.
 
 ## Screenshots
-![screenshots1](https://github.com/aashish649/alumni-track/assets/150827208/49817231-c2b1-4efa-a8d1-c9ef4ffd9059)
+![ss1](https://raw.githubusercontent.com/Gorakh-Gupta/Alumni-Community-New/master/assets/gkg-new5.png)
 
-![Screenshots2](https://github.com/aashish649/alumni-track/assets/150827208/862728c2-364b-4dec-aa65-4f06fcb00b31)
-
-
-![ss1](https://raw.githubusercontent.com/Gorakh-Gupta/Alumni-Community-New/master/assets/gkg-new.png)
-<!-- ![Screenshot (155)](https://github.com/aashish649/alumni-track/assets/150827208/2ee68f14-b2cd-4013-b4fa-dac736e4f585) -->
-
-![Screenshot (156)](https://github.com/aashish649/alumni-track/assets/150827208/7654eb57-7d02-4127-89d4-5c8ffaf0e956)
-
-![Screenshot (157)](https://github.com/aashish649/alumni-track/assets/150827208/87815397-c2ae-496f-8d5d-f632aa94d82d)
-
-![Screenshot (159)](https://github.com/aashish649/alumni-track/assets/150827208/ab360cb4-e77e-4f8e-bc8d-ac1392fafd45)
+![ss2](https://raw.githubusercontent.com/Gorakh-Gupta/Alumni-Community-New/master/assets/gkg-new6.png)
+![ss3](https://raw.githubusercontent.com/Gorakh-Gupta/Alumni-Community-New/master/assets/gkg-new.png)
+![ss4](https://raw.githubusercontent.com/Gorakh-Gupta/Alumni-Community-New/master/assets/gkg-new4.png)
+![ss5](https://raw.githubusercontent.com/Gorakh-Gupta/Alumni-Community-New/master/assets/gkg-new7.png)
+![ss6](https://raw.githubusercontent.com/Gorakh-Gupta/Alumni-Community-New/master/assets/gkg-new1.png)
+![ss7](https://raw.githubusercontent.com/Gorakh-Gupta/Alumni-Community-New/master/assets/gkg-new2.png)
+![ss8](https://raw.githubusercontent.com/Gorakh-Gupta/Alumni-Community-New/master/assets/gkg-new3.png)
 
 ## Technologies Used
 
