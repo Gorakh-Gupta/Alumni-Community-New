@@ -64,6 +64,8 @@ This website is hosted on Vercel. You can access the deployed application using 
 
 ![Screenshots2](https://github.com/aashish649/alumni-track/assets/150827208/862728c2-364b-4dec-aa65-4f06fcb00b31)
 
+
+![ss1](https://raw.githubusercontent.com/Gorakh-Gupta/Alumni-Community-New/master/assets/gkg-new.png)
 <!-- ![Screenshot (155)](https://github.com/aashish649/alumni-track/assets/150827208/2ee68f14-b2cd-4013-b4fa-dac736e4f585) -->
 
 ![Screenshot (156)](https://github.com/aashish649/alumni-track/assets/150827208/7654eb57-7d02-4127-89d4-5c8ffaf0e956)
