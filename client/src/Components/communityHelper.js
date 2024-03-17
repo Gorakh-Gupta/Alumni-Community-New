@@ -9,7 +9,8 @@ import { BASE_URL } from "../utils/constants";
 const CommunityHelper = ({ post }) => {
   const { loggedInUserDetails } = useContext(AuthContext);
   const [liked, setLiked] = useState(false);
-  const [comments, setComments] = useState("");
+  const [currentLikes, setCurrentLikes] = useState(post.likes.length);
+  const [comments, setComments] = useState([]);
   const [commentInput, setCommentInput] = useState("");
   const { user_id } = useParams;
   const [more, setMore] = useState(false);
@@ -37,6 +38,7 @@ const CommunityHelper = ({ post }) => {
         },
       });
       setLiked(true);
+      setCurrentLikes(currentLikes +1)
     } catch (error) {
       console.error("Error liking post:", error);
     }
@@ -51,6 +53,7 @@ const CommunityHelper = ({ post }) => {
         },
       });
       setLiked(false);
+      setCurrentLikes(currentLikes - 1)
     } catch (error) {
       console.error("Error unliking post:", error);
     }
@@ -191,8 +194,8 @@ const CommunityHelper = ({ post }) => {
         </div>
 
         <div className="flex items-center">
-          <p className="mr-2">{post.likes.length} Likes</p>
-          <p>{post.comments.length} Comments</p>
+          <p className="mr-2">{currentLikes} Likes</p>
+          <p>{comments.length}  Comments</p>
         </div>
       </div>
     </div>
